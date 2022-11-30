@@ -1,4 +1,5 @@
-<h2>:seedling: LimDongHyun99 :deciduous_tree:</h2>
+<div align=center>
+ <h2>:seedling: LimDongHyun99 :deciduous_tree:</h2>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kk3002)](https://solved.ac/kk3002)
@@ -20,7 +21,7 @@
 
 <img src="https://img.shields.io/badge/LimDongHyun99-000000?style=flat-square&logo=Tistory&logoColor=white"/> : https://nextmoveon.tistory.com/
 
-
+</div>
 <!-- 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kk3002)](https://solved.ac/kk3002)
 <img src="http://mazandi.herokuapp.com/api?handle=kk3002&theme=warm"/> -->
