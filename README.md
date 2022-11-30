@@ -10,6 +10,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimDongHyun99)](https://github.com/LimDongHyun99/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimDongHyun99&layout=compact)](https://github.com/LimDongHyun99/github-readme-stats) -->
+<img src="https://img.shields.io/badge/java-7952B3?style=flat-square&logo=java&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 
