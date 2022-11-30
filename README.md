@@ -1,4 +1,4 @@
-:seedling: LimDongHyun99 :deciduous_tree:
+<h2>:seedling: LimDongHyun99 :deciduous_tree:</h2>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kk3002)](https://solved.ac/kk3002)
